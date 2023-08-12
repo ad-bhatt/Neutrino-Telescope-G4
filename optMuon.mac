@@ -1,0 +1,14 @@
+/control/verbose 0
+/tracking/verbose 0
+/run/initialize
+/NT/gun/genFlag 1
+/NT/gun/partId 13
+/NT/gun/partEnergy 1 TeV
+/NT/gun/partEnergySmr 0 TeV
+/NT/gun/partDirection 0 0 1
+/NT/gun/partThetaSmr 0 mrad
+/NT/gun/partPhiSmr 0 mrad
+/NT/gun/partVertex 21 21 0 m
+/NT/gun/partVertexSmr 0 0 0 m
+/run/beamOn 1
+#/run/beamOn 1
